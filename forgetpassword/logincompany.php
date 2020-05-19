@@ -29,7 +29,7 @@
               $profile = $row["username"];                                              
               $_SESSION["username"]=$profile; }
           } else {
-      header("Location: http://localhost:8080/work/loginerror/error1.php"); /* Redirect browser */
+      header("Location: /loginerror/error1.php"); /* Redirect browser */
       exit();
     }
     }
@@ -86,10 +86,10 @@
               <a class="nav-link" href="#jumbotron">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="http://localhost:8080/work/worktab/worktab.php">Jobs</a>
+              <a class="nav-link" href="/worktab/worktab.php">Jobs</a>
             </li>  
             <li class="nav-item">
-              <a class="nav-link" href="http://localhost:8080/work/helptab/helptab.php">Help</a>
+              <a class="nav-link" href="/helptab/helptab.php">Help</a>
             </li>          
             <li class="nav-item dropdown pull-xs-right">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -114,11 +114,11 @@
             <div class="row">
                 <div class="col-md-2 ">
                      <div class="list-group ">
-                      <a href="http://localhost:8080/work/dashboard/company.php" class="list-group-item list-group-item-action active">Dashboard</a>
+                      <a href="/dashboard/company.php" class="list-group-item list-group-item-action active">Dashboard</a>
                       <a href="#" class="list-group-item list-group-item-action">Search Jobs</a>
                       <a href="#" class="list-group-item list-group-item-action">Hire</a>
-                      <a href="http://localhost:8080/work/editpublic/company.php" class="list-group-item list-group-item-action">Edit Public Informations</a>
-                      <a href="http://localhost:8080/work/editprivate/company.php" class="list-group-item list-group-item-action">Edit Private Informations</a>
+                      <a href="/editpublic/company.php" class="list-group-item list-group-item-action">Edit Public Informations</a>
+                      <a href="/editprivate/company.php" class="list-group-item list-group-item-action">Edit Private Informations</a>
 
                       
                       

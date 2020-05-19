@@ -162,7 +162,7 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="http://localhost:8080/work/index.php">Log out</a>
+                  <a class="dropdown-item" href="/index.php">Log out</a>
                 </div>        
           </ul> 
           
@@ -177,11 +177,11 @@
             <div class="row">
                 <div class="col-md-2 ">
                      <div class="list-group ">
-                      <a href="http://localhost:8080/work/dashboard/personal.php" class="list-group-item list-group-item-action">Dashboard</a>
-                      <a href="http://localhost:8080/work/posts/jobpost.php" class="list-group-item list-group-item-action">Search Jobs</a>
-                      <a href="http://localhost:8080/work/post/cv.php" class="list-group-item list-group-item-action">Post CV</a>
-                      <a href="http://localhost:8080/work/editpublic/personal.php" class="list-group-item list-group-item-action ">Edit Public Informations</a>
-                      <a href="http://localhost:8080/work/editprivate/personal.php" class="list-group-item list-group-item-action active">Edit Private Informations</a>
+                      <a href="/dashboard/personal.php" class="list-group-item list-group-item-action">Dashboard</a>
+                      <a href="/posts/jobpost.php" class="list-group-item list-group-item-action">Search Jobs</a>
+                      <a href="/post/cv.php" class="list-group-item list-group-item-action">Post CV</a>
+                      <a href="/editpublic/personal.php" class="list-group-item list-group-item-action ">Edit Public Informations</a>
+                      <a href="/editprivate/personal.php" class="list-group-item list-group-item-action active">Edit Private Informations</a>
 
                       
                       

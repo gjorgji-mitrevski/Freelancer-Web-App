@@ -27,13 +27,13 @@
         <a class="navbar-brand" href="#jumbotron">  <img src="undraw_photo.png" height="40px" width="100px"> </a>
           <ul class="nav navbar-nav">
             <li class="nav-item">
-              <a class="nav-link" href="http://localhost:8080/work/">Home <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="http://localhost:8080/work/worktab/worktab.php">Jobs</a>
+              <a class="nav-link" href="/worktab/worktab.php">Jobs</a>
             </li>  
             <li class="nav-item">
-              <a class="nav-link" href="http://localhost:8080/work/helptab/helptab.php">Help</a>
+              <a class="nav-link" href="/helptab/helptab.php">Help</a>
             </li>           
           </ul>
           

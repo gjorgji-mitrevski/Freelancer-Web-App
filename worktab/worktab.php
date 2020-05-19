@@ -19,13 +19,13 @@
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link" href="http://localhost:8080/work/index.php">Home </a>
+        <a class="nav-link" href="/index.php">Home </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://localhost:8080/work/worktab/worktab.php">Jobs<span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="/worktab/worktab.php">Jobs<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://localhost:8080/work/helptab/helptab.php">Help</a>
+        <a class="nav-link" href="/helptab/helptab.php">Help</a>
       </li>
       
     </ul>
@@ -136,10 +136,10 @@
  </div>
  </div>
  <div class="alert alert-primary" role="alert">
- <p class="text-center">Need job now register here->. <a href="http://localhost:8080/work/registration/singup.php" class="alert-link">Register</p></a>. <p class="text-center">Find a job now.</p>
+ <p class="text-center">Need job now register here->. <a href="/registration/singup.php" class="alert-link">Register</p></a>. <p class="text-center">Find a job now.</p>
 </div>
 <div class="alert alert-secondary" role="alert">
-  <p class="text-center">Need employees register your company here-> <a href="http://localhost:8080/work/registration/singup.php" class="alert-link">Register</p></a>.<p class="text-center">Find emplotees now.</p>
+  <p class="text-center">Need employees register your company here-> <a href="/registration/singup.php" class="alert-link">Register</p></a>.<p class="text-center">Find emplotees now.</p>
 </div>
 
 

@@ -63,7 +63,7 @@
         <a class="navbar-brand" href="#jumbotron">  <img src="undraw_photo.png" height="40px" width="100px"> </a>
           <ul class="nav navbar-nav">
             <li class="nav-item">
-              <a class="nav-link" href="http://localhost:8080/work/dashboard/personal.php">Home <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="/dashboard/personal.php">Home <span class="sr-only">(current)</span></a>
             </li>
        
             <li class="nav-item dropdown pull-xs-right">
@@ -72,7 +72,7 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="http://localhost:8080/work">Log out</a>
+                  <a class="dropdown-item" href="">Log out</a>
                 </div>        
           </ul> 
           
@@ -87,11 +87,11 @@
             <div class="row">
                 <div class="col-md-2 ">
                      <div class="list-group ">
-                      <a href="http://localhost:8080/work/dashboard/personal.php" class="list-group-item list-group-item-action">Dashboard</a>
-                      <a href="http://localhost:8080/work/posts/jobpost.php" class="list-group-item list-group-item-action">Search Jobs</a>
-                      <a href="http://localhost:8080/work/post/cv.php" class="list-group-item list-group-item-action active">Post CV</a>
-                      <a href="http://localhost:8080/work/editpublic/personal.php" class="list-group-item list-group-item-action ">Edit Public Informations</a>
-                      <a href="http://localhost:8080/work/editprivate/personal.php" class="list-group-item list-group-item-action ">Edit Private Informations</a>
+                      <a href="/dashboard/personal.php" class="list-group-item list-group-item-action">Dashboard</a>
+                      <a href="/posts/jobpost.php" class="list-group-item list-group-item-action">Search Jobs</a>
+                      <a href="/post/cv.php" class="list-group-item list-group-item-action active">Post CV</a>
+                      <a href="/editpublic/personal.php" class="list-group-item list-group-item-action ">Edit Public Informations</a>
+                      <a href="/editprivate/personal.php" class="list-group-item list-group-item-action ">Edit Private Informations</a>
 
                       
                       

@@ -39,10 +39,10 @@ $_SESSION["username"] = "";
               <a class="nav-link" href="#jumbotron">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="http://localhost:8080/work/worktab/worktab.php">Jobs</a>
+              <a class="nav-link" href="/worktab/worktab.php">Jobs</a>
             </li>  
             <li class="nav-item">
-              <a class="nav-link" href="http://localhost:8080/work/helptab/helptab.php">Help</a>
+              <a class="nav-link" href="/helptab/helptab.php">Help</a>
             </li>
                      
           </ul>
@@ -51,15 +51,15 @@ $_SESSION["username"] = "";
 
         <div class="jumbotron" id="jumbotron">
           <h1 class="display-4">Find out why are we the best!</h1>
-          <p class="text-center"><a href="http://localhost:8080/work/registration/singup.php" class="alert-link">Sign up!</a></p>
+          <p class="text-center"><a href="/registration/singup.php" class="alert-link">Sign up!</a></p>
           <hr class="m-y-2">
           <p>Choose one!</p>
         
           
           
           
-          <a href="http://localhost:8080/work/forgetpassword/personal.php" class="btn btn-info" role="link">Personal</a>
-          <a href="http://localhost:8080/work/forgetpassword/company.php" class="btn btn-info" role="link">Company</a>
+          <a href="/forgetpassword/personal.php" class="btn btn-info" role="link">Personal</a>
+          <a href="/forgetpassword/company.php" class="btn btn-info" role="link">Company</a>
 
        
         

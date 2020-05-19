@@ -142,11 +142,11 @@
             <div class="row">
                 <div class="col-md-2 ">
                      <div class="list-group ">
-                      <a href="http://localhost:8080/work/dashboard/personal.php" class="list-group-item list-group-item-action">Dashboard</a>
+                      <a href="/dashboard/personal.php" class="list-group-item list-group-item-action">Dashboard</a>
                       <a href="#" class="list-group-item list-group-item-action">Search Jobs</a>
                       <a href="#" class="list-group-item list-group-item-action">Post CV</a>
-                      <a href="http://localhost:8080/work/editpublic/personal.php" class="list-group-item list-group-item-action active">Edit Public Informations</a>
-                      <a href="http://localhost:8080/work/editprivate/personal.php" class="list-group-item list-group-item-action">Edit Private Informations</a>
+                      <a href="/editpublic/personal.php" class="list-group-item list-group-item-action active">Edit Public Informations</a>
+                      <a href="/editprivate/personal.php" class="list-group-item list-group-item-action">Edit Private Informations</a>
 
                       
                       

@@ -19,13 +19,13 @@
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link" href="http://localhost:8080/work/index.php">Home </a>
+        <a class="nav-link" href="/index.php">Home </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://localhost:8080/work/worktab/worktab.php">Jobs<span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="/worktab/worktab.php">Jobs<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://localhost:8080/work/helptab/helptab.php">Help</a>
+        <a class="nav-link" href="/helptab/helptab.php">Help</a>
       </li>
       
     </ul>
@@ -34,22 +34,22 @@
   </nav>
 
   <div class="alert alert-primary" role="alert">
-  <p class="text-center">For register as personal click here-> <a href="http://localhost:8080/work/registration/singup.php" class="alert-link">Register</a></p>
+  <p class="text-center">For register as personal click here-> <a href="/registration/singup.php" class="alert-link">Register</a></p>
 </div>
 <div class="alert alert-secondary" role="alert">
-  <p class="text-center">For register as company click here-> <a href="http://localhost:8080/work/registration/singup.php" class="alert-link">Register</a></p>
+  <p class="text-center">For register as company click here-> <a href="/registration/singup.php" class="alert-link">Register</a></p>
 </div>
 <div class="alert alert-danger" role="alert">
-  <p class="text-center">For Login as personal click here-> <a href="http://localhost:8080/work/login/personal.php" class="alert-link">Login</a></p>
+  <p class="text-center">For Login as personal click here-> <a href="/login/personal.php" class="alert-link">Login</a></p>
 </div>
 <div class="alert alert-warning" role="alert">
-  <p class="text-center">For Login as company click here-> <a href="http://localhost:8080/work/login/company.php" class="alert-link">Login</a></p>
+  <p class="text-center">For Login as company click here-> <a href="/login/company.php" class="alert-link">Login</a></p>
 </div>
 <div class="alert alert-secondary" role="alert">
-  <p class="text-center">For serching a job as personal you need to login.Click here to login-><a href="http://localhost:8080/work/login/personal.php" class="alert-link">Login</a></p>
+  <p class="text-center">For serching a job as personal you need to login.Click here to login-><a href="/login/personal.php" class="alert-link">Login</a></p>
 </div>
 <div class="alert alert-secondary" role="alert">
-  <p class="text-center">For posting a job as company click here to login-> <a href="http://localhost:8080/work/login/company.php"" class="alert-link">Login</a></p>
+  <p class="text-center">For posting a job as company click here to login-> <a href="/login/company.php"" class="alert-link">Login</a></p>
 </div>
 
 <div class="alert alert-secondary" role="alert">

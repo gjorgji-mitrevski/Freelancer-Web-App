@@ -21,7 +21,7 @@ $sql = "INSERT INTO `personal` (`firstname`, `lastname`, `email` , `pin`,`passwo
 VALUES ('$firstname', '$lastname', '$email','$pin','$pw', '$user')";
 
 if (mysqli_query($conn, $sql)) {
-    header("Location:http://localhost:8080/work/login/personal.php"); /* Redirect browser */
+    header("Location:/login/personal.php"); /* Redirect browser */
 } else {
     echo "Error: " . $sql . "<br>" . mysqli_error($conn);
 }
