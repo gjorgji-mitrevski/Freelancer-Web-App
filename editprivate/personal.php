@@ -166,7 +166,7 @@
   <body data-spy="scroll" data-target="#navbar" data-offset="150">
       
         <nav class="navbar navbar-light bg-faded navbar-fixed-top" id="navbar">
-        <a class="navbar-brand" href="#jumbotron">  <img src="undraw_dev_productivity_umsq.png" height="40px" width="100px"> </a>
+        <a class="navbar-brand" href="#jumbotron">  <img src="undraw_photo.png" height="40px" width="100px"> </a>
           <ul class="nav navbar-nav">
             <li class="nav-item">
               <a class="nav-link" href="http://localhost:8080/work/dashboard/personal.php">Home <span class="sr-only">(current)</span></a>
